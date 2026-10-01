@@ -1,6 +1,6 @@
 
 public class App {
-	public static void main (string[] apply) {
+	public static void main(string[] args){
 		init a = 10;
 		init b = 5;
 		system.out.println("the sum is:"+(a+b));
